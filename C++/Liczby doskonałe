@@ -69,3 +69,4 @@ int main()
     cout << "czas: " << czas << endl;
     return 0;
 }
+
